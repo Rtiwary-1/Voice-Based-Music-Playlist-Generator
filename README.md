@@ -1,5 +1,5 @@
 # Voice-Based-Music-Playlist-Generator
-This project was done as a coursework for the subject of Database Management System
+This project was done as a sample project for proof of concept. 
 
 ## INTRODUCTION:
 Voice Based Mood Analyzed System is named as such as it is a service which takes in user voice tone and analyses this for the mood of the user. The user says something along the lines of “Play a song” and just this line is used to detect the mood of user. This mood is then used to find the tracks suitable for the mood of the listener. This service employs the application of Natural Language Processing, a domain of Artificial Intelligence and Machine Learning.
